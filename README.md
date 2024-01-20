@@ -4,7 +4,7 @@
 
 ![image](https://github.com/giannisyp/quiz-app/assets/119696474/bafb06a4-a9e4-49c4-8ddc-905d6de025f6)
 
-How to run locally
+How to run locally.
 
 Clone the repo
 ```
