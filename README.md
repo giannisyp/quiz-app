@@ -13,7 +13,7 @@ git clone https://github.com/giannisyp/quiz-app
 
 install requirements if needed
 ```
-pip install -r requirements. txt
+pip install -r requirements.txt
 ```
 
 run the main program
